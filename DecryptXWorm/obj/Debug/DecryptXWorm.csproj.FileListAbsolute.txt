@@ -1,0 +1,7 @@
+C:\Users\Archevod\Downloads\Decrypt-XWormV5.2-Releases (1)\Decrypt-XWormV5.2-Releases\DecryptXWorm\bin\Debug\DecryptXWorm.exe.config
+C:\Users\Archevod\Downloads\Decrypt-XWormV5.2-Releases (1)\Decrypt-XWormV5.2-Releases\DecryptXWorm\bin\Debug\DecryptXWorm.exe
+C:\Users\Archevod\Downloads\Decrypt-XWormV5.2-Releases (1)\Decrypt-XWormV5.2-Releases\DecryptXWorm\bin\Debug\DecryptXWorm.pdb
+C:\Users\Archevod\Downloads\Decrypt-XWormV5.2-Releases (1)\Decrypt-XWormV5.2-Releases\DecryptXWorm\obj\Debug\DecryptXWorm.csproj.AssemblyReference.cache
+C:\Users\Archevod\Downloads\Decrypt-XWormV5.2-Releases (1)\Decrypt-XWormV5.2-Releases\DecryptXWorm\obj\Debug\DecryptXWorm.csproj.CoreCompileInputs.cache
+C:\Users\Archevod\Downloads\Decrypt-XWormV5.2-Releases (1)\Decrypt-XWormV5.2-Releases\DecryptXWorm\obj\Debug\DecryptXWorm.exe
+C:\Users\Archevod\Downloads\Decrypt-XWormV5.2-Releases (1)\Decrypt-XWormV5.2-Releases\DecryptXWorm\obj\Debug\DecryptXWorm.pdb
